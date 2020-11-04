@@ -15,7 +15,7 @@ Komponenten **Product** ska ta ett objekt som en prop och det objektet ska inneh
 
 **Skiss**
 
-[!alt](Screenshot.png)
+![alt](Screenshot.png)
 
 # Instruktioner för utvecklingsmiljön
 
