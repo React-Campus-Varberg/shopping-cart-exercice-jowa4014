@@ -13,6 +13,10 @@ Komponenten **Product** ska ta ett objekt som en prop och det objektet ska inneh
 * Författare
 * Kort text om boken (kan vara Lorem Ipsum)
 
+**Skiss**
+
+[!alt](Screenshot.jpg)
+
 # Instruktioner för utvecklingsmiljön
 
 Detta kräver att du har installerat **node** och **npm**. Du kan ladda ner det [här](https://nodejs.org/en/).
