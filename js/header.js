@@ -7,7 +7,7 @@ function Header() {
     return (
         <div className="myFstClass">
             {/* TODO: Change the link */}
-            <a href="http://localhost:9000/"><img src={ImgUrl} class="logo" alt="Logo of the store" /></a>
+            <a href="http://localhost:9000/"><img src={ImgUrl} className="logo" alt="Logo of the store" /></a>
             <a href="#">Testing</a>
         </div>
     );

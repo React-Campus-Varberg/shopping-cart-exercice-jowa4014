@@ -1,6 +1,9 @@
 const CopyPlugin = require('copy-webpack-plugin');
 const path = require('path');
 
+//Mode
+process.env.NODE_ENV = 'development';
+
 module.exports = {
     "output": {
       "filename": "js/app.js"
